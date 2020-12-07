@@ -2,10 +2,6 @@
 title: "reproducible research assignment 1"
 author: "Martina Ulivieri"
 date: "12/7/2020"
-output:
-  pdf_document: default
-  word_document: default
-  html_document: default
 ---
 
 #Reproducible research - Peer Assignment 1
